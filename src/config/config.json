@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Nhansam@01",
+    "database": "typescript",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
